@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="215 68 290 225" role="img" aria-label="Ball of yarn and crochet hook"><defs><clipPath id="ballx"><circle cx="300" cy="150" r="68"/></clipPath></defs>
+<circle cx="300" cy="150" r="68" fill="#E8735A"/>
+<g clip-path="url(#ballx)" fill="none" stroke="#B4432E" stroke-width="3" stroke-linecap="round">
+<path d="M225 170 C 270 110, 320 88, 375 102"/><path d="M225 198 C 280 132, 340 120, 375 152"/><path d="M235 224 C 300 165, 345 165, 375 196"/>
+<path d="M262 78 C 248 140, 270 195, 325 225"/><path d="M302 76 C 290 130, 310 182, 358 214"/><path d="M340 80 C 330 120, 345 160, 380 182"/>
+<path d="M262 112 C 275 96, 293 88, 312 84" stroke="#F4A08C" stroke-width="4"/></g>
+<circle cx="300" cy="150" r="68" fill="none" stroke="#B4432E" stroke-width="3"/>
+<path d="M350 200 C 390 240, 360 275, 400 272 C 440 268, 440 225, 410 228 C 385 230, 395 258, 425 250" fill="none" stroke="#E8735A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="rotate(25 450 180)" stroke="#8A6420" stroke-width="1.5" stroke-linejoin="round" fill="#D9A441">
+<rect x="446" y="100" width="8" height="100" rx="3"/><rect x="443" y="180" width="14" height="80" rx="7"/>
+<path d="M446 106 L446 92 Q446 84 454 84 Q461 84 461 91 Q457 90 456 93 L454 98 L454 106 Z"/></g></svg>

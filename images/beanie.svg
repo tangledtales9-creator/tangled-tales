@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Crochet beanie">
+<path d="M52 122 A48 48 0 0 1 148 122 Z" fill="#E8735A" stroke="#B4432E" stroke-width="2"/>
+<rect x="44" y="118" width="112" height="28" rx="8" fill="#B4432E"/>
+<g stroke="#E8735A" stroke-width="2" stroke-linecap="round"><path d="M62 124 V140"/><path d="M78 124 V140"/><path d="M94 124 V140"/><path d="M110 124 V140"/><path d="M126 124 V140"/><path d="M142 124 V140"/></g>
+<circle cx="100" cy="66" r="17" fill="#D9A441" stroke="#8A6420" stroke-width="2"/></svg>

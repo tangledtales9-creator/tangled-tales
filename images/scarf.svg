@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Crochet scarf">
+<rect x="126" y="108" width="36" height="66" rx="8" fill="#E8735A" stroke="#B4432E" stroke-width="2"/>
+<rect x="127" y="128" width="34" height="9" fill="#D9A441"/><rect x="127" y="146" width="34" height="9" fill="#FFF3E8"/>
+<g stroke="#B4432E" stroke-width="3" stroke-linecap="round"><path d="M132 176 V190"/><path d="M140 176 V190"/><path d="M148 176 V190"/><path d="M156 176 V190"/></g>
+<rect x="30" y="66" width="140" height="46" rx="10" fill="#E8735A" stroke="#B4432E" stroke-width="2"/>
+<rect x="60" y="67" width="10" height="44" fill="#D9A441"/><rect x="96" y="67" width="10" height="44" fill="#FFF3E8"/><rect x="132" y="67" width="10" height="44" fill="#D9A441"/></svg>
