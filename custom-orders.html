@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Custom orders | Tangled Tales</title>
+<meta name="description" content="Request a custom handmade crochet piece: choose the colours, size and even a name stitched on.">
+<meta property="og:title" content="Custom orders | Tangled Tales">
+<meta property="og:description" content="Request a custom handmade crochet piece: choose the colours, size and even a name stitched on.">
+<meta property="og:type" content="website">
+<link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Nunito:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header><div class="wrap">
+<a class="brand" href="index.html" aria-label="Tangled Tales home"><svg width="38" height="38" viewBox="0 0 40 40" aria-hidden="true"><defs><clipPath id="mark"><circle cx="18" cy="18" r="14"/></clipPath></defs><circle cx="18" cy="18" r="14" fill="#E8735A"/><g clip-path="url(#mark)" fill="none" stroke="#B4432E" stroke-width="1.6" stroke-linecap="round"><path d="M3 20 C 10 8, 22 5, 34 9"/><path d="M3 27 C 12 14, 26 13, 34 21"/><path d="M11 5 C 8 16, 13 27, 24 33"/><path d="M22 4 C 19 14, 23 25, 32 30"/></g><circle cx="18" cy="18" r="14" fill="none" stroke="#B4432E" stroke-width="1.6"/><path d="M27 30 C 31 34, 30 38, 36 37" fill="none" stroke="#E8735A" stroke-width="2.4" stroke-linecap="round"/></svg><span>Tangled <b>Tales</b></span></a>
+<nav aria-label="Main"><a href="shop.html">Shop</a><a href="custom-orders.html" aria-current="page">Custom orders</a><a href="our-story.html">Our story</a><a href="contact.html">Contact</a><a class="btn btn-2 btn-sm" href="cart.html">Cart (<span data-cart-count>0</span>)</a></nav>
+</div></header>
+<main id="main">
+<div class="page-head"><div class="wrap"><div class="crumbs"><a href="index.html">Home</a> / Custom orders</div><h1>Custom orders</h1><p>Tell us your idea and we'll make it real.</p></div></div>
+<section><div class="wrap two top">
+<div>
+<h2>How it works</h2>
+<ol class="steps">
+<li><strong>Tell us your idea</strong>Fill in the form. Photos and rough sketches help, and you can send them on WhatsApp.</li>
+<li><strong>We send a sketch and a quote</strong>Within two days, we reply with a sketch, a price and a delivery time.</li>
+<li><strong>We stitch and ship</strong>Once you approve, we start work and send progress photos. Most pieces take 2 to 3 weeks.</li>
+</ol>
+<h2 style="margin-top:32px">What we can customise</h2>
+<dl class="dashed-list"><div><dt>Colours</dt><dd>Pick from our full yarn range, or send a photo to match.</dd></div><div><dt>Size</dt><dd>Bigger, smaller or made to fit a person or pet.</dd></div><div><dt>Names and initials</dt><dd>Stitched on for birthdays, weddings and new babies.</dd></div><div><dt>Gift packing</dt><dd>Wrapped, tied and sent with a handwritten note.</dd></div></dl>
+</div>
+<form class="panel" id="custom-form" novalidate>
+<h2>Request a custom piece</h2>
+<div class="field"><label for="c-name">Your name</label><input id="c-name" name="name" autocomplete="name" data-required><p class="err" hidden>Enter your name.</p></div>
+<div class="field"><label for="c-idea">What would you like us to make?</label><textarea id="c-idea" name="idea" data-required></textarea><p class="err" hidden>Tell us a little about your idea.</p><p class="hint">Describe it, or mention a photo you'll send on WhatsApp.</p></div>
+<div class="field"><label for="c-colours">Colours</label><input id="c-colours" name="colours" placeholder="For example, sage green and cream"></div>
+<div class="field"><label for="c-size">Size</label><input id="c-size" name="size" placeholder="For example, 25 cm tall"></div>
+<div class="field"><label for="c-date">Needed by</label><input id="c-date" name="date" placeholder="For example, 15 December"></div>
+<div class="field"><label for="c-budget">Budget</label><input id="c-budget" name="budget" placeholder="Optional"></div>
+<div class="form-actions"><button class="btn" type="submit" data-channel="whatsapp">Send on WhatsApp</button><button class="btn btn-2" type="submit" data-channel="email">Send by email</button></div>
+<p class="hint" style="margin-top:12px">This opens WhatsApp or your email app with your request filled in. Nothing is sent until you press send there.</p>
+</form>
+</div></section>
+</main>
+<footer><div class="wrap">
+<div><h3>Tangled Tales</h3><p>Handmade crochet, stitched with love.</p></div>
+<div><h3>Explore</h3><ul><li><a href="shop.html">Shop</a></li><li><a href="custom-orders.html">Custom orders</a></li><li><a href="our-story.html">Our story</a></li><li><a href="contact.html">Contact and FAQ</a></li></ul></div>
+<div><h3>Get in touch</h3><ul><li><a data-bind="email" href="#">hello@yourdomain.com</a></li><li><a data-bind="instagram" href="#">@yourhandle</a></li><li><a data-bind="whatsapp" href="#">WhatsApp</a></li></ul></div>
+<div class="legal">© <span data-year>2026</span> Tangled Tales. All rights reserved.</div>
+</div></footer>
+<script src="js/config.js"></script><script src="js/main.js"></script>
+</body>
+</html>
