@@ -2,8 +2,8 @@
    Change these values, save, and every page updates. */
 window.TT_CONFIG = {
   brand: "Tangled Tales",
-  email: "hello@yourdomain.com",
-  whatsapp: "91XXXXXXXXXX",      // country code + number, digits only. Example: 919876543210
-  instagram: "yourhandle",       // without the @
+  email: "tanhledtales9@gmail.com",
+  whatsapp: "918107795985",      // country code + number, digits only. Example: 919876543210
+  instagram: "nikita_jangid70",       // without the @
   currency: "₹"
 };
